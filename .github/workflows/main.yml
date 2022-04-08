@@ -3,12 +3,12 @@
 ###############################################
 
 ---
-name: Github's Super Linter
+name: GitHub's Super Linter
 on: push
 
 jobs:
   run-linters:
-    name: Github's Super Linter
+    name: GitHub's Super Linter
     runs-on: ubuntu-latest
 
     steps:
