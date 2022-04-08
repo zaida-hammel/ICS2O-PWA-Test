@@ -5,4 +5,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/zaida-hammel/ICS2O-Unit6-01-PWA-Test)](https://repl.it/github/zaida-hammel/ICS2O-Unit6-01-PWA-Test)
 
-This site can be found at: [https://zaida-hammel.github.io/ICS2O-Unit3-04-HTML](https://zaida-hammel.github.io/ICS2O-Unit6-01-PWA-Test)
+This site can be found at: [https://zaida-hammel.github.io/ICS2O-Unit6-01-PWA-Test](https://zaida-hammel.github.io/ICS2O-Unit6-01-PWA-Test)
