@@ -3,6 +3,6 @@
 
 
 
-[![Run on Repl.it](https://repl.it/badge/github/zaida-hammel/ICS2O-PWA-Test](https://repl.it/github/zaida-hammel/ICS2O-PWA-Test)
+[![Run on Repl.it](https://repl.it/badge/github/zaida-hammel/ICS2O-PWA-Test)](https://repl.it/github/zaida-hammel/ICS2O-PWA-Test)
 
 This site can be found at: [https://zaida-hammel.github.io/ICS2O-PWA-Test](https://zaida-hammel.github.io/ICS2O-PWA-Test)
