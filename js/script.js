@@ -16,13 +16,16 @@ if (navigator.serviceWorker) {
 /**
  * This function converts fahrenheit to celsius.
  */
-function calculate () {
+function calculate() {
   // input
-  const fahrenheit = parseFloat(document.getElementById("degrees-fahrenheit").value)
+  const fahrenheit = parseFloat(
+    document.getElementById("degrees-fahrenheit").value
+  )
 
   // process
-  const celsius = (fahrenheit - 32) * 5/9
+  const celsius = ((fahrenheit - 32) * 5) / 9
 
   // output
-  document.getElementById("celsius").innerHTML = "The degrees celsius is: " + celsius.toFixed(2) + "°"
+  document.getElementById("celsius").innerHTML =
+    "The degrees celsius is: " + celsius.toFixed(2) + "°"
 }
